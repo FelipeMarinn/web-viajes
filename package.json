@@ -1,0 +1,19 @@
+{
+  "name": "web-viajes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMarinn/web-viajes.git"
+  },
+  "author": "Daniel Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeMarinn/web-viajes/issues"
+  },
+  "homepage": "https://github.com/FelipeMarinn/web-viajes#readme"
+}
