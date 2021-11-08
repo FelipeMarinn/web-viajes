@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/FelipeMarinn/web-viajes/issues"
   },
-  "homepage": "https://github.com/FelipeMarinn/web-viajes#readme"
+  "homepage": "https://github.com/FelipeMarinn/web-viajes#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.3-rc.0",
+    "nodemon": "^2.0.14"
+  }
 }
