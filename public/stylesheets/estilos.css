@@ -8,3 +8,16 @@ html {
   top: 14px;
   right: 18px;
 }
+
+form.buscador{
+  padding: 0;
+  text-align: center
+}
+
+.centrado{
+  text-align: center
+}
+
+img.avatar{
+  max-height: 15px
+}
